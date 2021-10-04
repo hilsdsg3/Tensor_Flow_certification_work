@@ -1,0 +1,9 @@
+*.csv
+*.xlsx
+*.zip
+.ipynb_checkpoints/
+*.json
+API.py
+.targetdir/
+best_model_SavedModel_format
+data/
